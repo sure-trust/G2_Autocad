@@ -32,4 +32,4 @@ Feel welcome to navigate through each designated folder to access specific, targ
 
 We encourage collaboration and participation from all learners. If you have any questions, suggestions, or improvements to contribute, please don't hesitate to get involved.
 
-For any inquiries or necessary assistance, we encourage you to connect with SURE Trust via our [official website](https://suretrustforruralyouth.com/). Your queries will be promptly addressed by our dedicated team.
+For any inquiries or necessary assistance, we encourage you to connect with SURE Trust via our[official website](https://suretrustforruralyouth.com/). Your queries will be promptly addressed by our dedicated team.
