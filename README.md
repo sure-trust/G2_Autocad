@@ -1,6 +1,13 @@
-# SURE Trust G2 - AutoCad & Solidworks for Mechanical Engineers
+<!-- PROJECT LOGO -->
+<br />
 
-![SURE Trust Logo](https://media.licdn.com/dms/image/D5605AQGR1N-FKoXpuQ/feedshare-thumbnail_720_1280/0/1681494173472?e=2147483647&v=beta&t=gZvagbzH2QZWvBLeft9ifooR7SfXO-qa8VdFcqZyiiY)
+<div align="center">
+   <img src='https://user-images.githubusercontent.com/73131499/166115643-d3187f47-d38f-41b2-ae42-5ecbbc60de14.png' />
+
+
+<h3 align="center">SURE Trust - Skill Upgradation for Rural-youth Empowerment Trust</h3>
+  <h2> AutoCad & Solidworks for Mechanical Engineers </h2>
+</div>
 
 Welcome to the SURE Trust G2 AutoCad & Solidworks Training repository for Mechanical Engineers. This repository serves as a central hub for all materials and resources related to the training course during the second batch of training AutoCad & Solidworks course.
 
