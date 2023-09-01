@@ -11,11 +11,11 @@
 
 # Course Report
 
-## Name: [Your Name]
+## Name: [RAMANJI NAVEEN]
 
-## Qualifications: [Your Qualifications]
+## Qualifications: [Pursuing B.Tech final year in Mechanical Engineering at MITS]
 
-Welcome to the course report for the [Course Name]! This README document provides an overview of the course, its mini projects and final project.
+Welcome to the course report for the [G2-AutoCAD & SolidWorks]! This README document provides an overview of the course, its mini projects and final project.
 
 ### Mini Projects and Final Project
 
@@ -23,6 +23,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: [Project Description]     | [Project Link]                         |
-| Final Project: [Project Description]     | [Project Link]                         |
-
+| Mini Projects: [Ironman mask and sleeve joint are drawn a 3D object in Autocad and SolidWorks]     | [CLICK ME](https://github.com/sure-trust/G2_Autocad/tree/main/Mini%20Projects/Naveen)                        |
+| Final Project: [cross head assembly drawn in SolidWorks]     | [CLICK ME](https://github.com/sure-trust/G2_Autocad/tree/main/Final%20Capstone%20Project/Naveen)                         |
