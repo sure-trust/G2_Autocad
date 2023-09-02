@@ -19,6 +19,12 @@ SURE Trust is a registered NGO committed to eradicating the disparity between sk
 
 To enroll in the AutoCad course for Mechanical Engineers, please visit the official SURE Trust website: [Course Registration](https://suretrustforruralyouth.com/courses/136)
 
+## Student Reports
+
+|Student Name| Course Report Link | 
+|------------|--------------------|
+|Niharika|[Click here](https://github.com/sure-trust/G2_Autocad/blob/main/Course%20Report/Niharika%20Course%20Report.md)
+
 ## Repository Description
 
 This repository is designed to support the G2 AutoCad & Solidworks training program for Mechanical Engineers at SURE Trust. It follows the below mentioned organization structure:

@@ -6,7 +6,7 @@
 
 
 <h3 align="center">SURE Trust - Skill Upgradation for Rural-youth Empowerment Trust</h3>
-  <h2> AUTOCAD & SOLIDWORKS </h2>
+  <h2> AutoCAD & Solidworks for Mechanical Engineers </h2>
 </div>
 
 # Course Report
@@ -15,7 +15,7 @@
 
 ## Qualifications: B.TECH
 
-Welcome to the course report for AUTOCAD & SOLIDWORKS! This README document provides an overview of the course, its mini projects and final project.
+Welcome to the course report for AutoCAD & Solidworks for Mechanical Engineers! This README document provides an overview of the course, its mini projects and final project.
 
 ### Mini Projects and Final Project
 
