@@ -23,8 +23,10 @@ To enroll in the AutoCad course for Mechanical Engineers, please visit the offic
 
 |Student Name| Course Report Link | 
 |------------|--------------------|
-|Niharika|[Click here](https://github.com/sure-trust/G2_Autocad/blob/main/Course%20Report/Niharika%20Course%20Report.md)
-
+|Niharika|[Click here](https://github.com/sure-trust/G2_Autocad/blob/main/Course%20Report/Niharika%20Course%20Report.md)|Rame
+|Rameez|[Click here](https://github.com/sure-trust/G2_Autocad/blob/main/Course%20Report/RAMEEZ.md)|
+|Ramanji Naveen|[Click here](https://github.com/sure-trust/G2_Autocad/blob/main/Course%20Report/Ramanji%20Naveen.md)|
+|Vedavyas|[Click here](https://github.com/sure-trust/G2_Autocad/blob/main/Course%20Report/VEDAVYAS.md)|
 ## Repository Description
 
 This repository is designed to support the G2 AutoCad & Solidworks training program for Mechanical Engineers at SURE Trust. It follows the below mentioned organization structure:
