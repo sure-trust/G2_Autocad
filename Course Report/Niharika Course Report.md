@@ -6,16 +6,16 @@
 
 
 <h3 align="center">SURE Trust - Skill Upgradation for Rural-youth Empowerment Trust</h3>
-  <h2> Course Name </h2>
+  <h2>AutoCAD & Solidworks for Mechanical Engineers</h2>
 </div>
 
 # Course Report
 
-## Name: [PERIMILLA NIHARIKA]
+## Name: PERIMILLA NIHARIKA
 
-## Qualifications: [4th Year B.Tech pursuing]
+## Qualifications: 4th Year B.Tech pursuing
 
-Welcome to the course report for the [AutoCAD & Solidworks for Mechanical Engineers]! This README document provides an overview of the course, its mini projects and final project.
+Welcome to the course report for the AutoCAD & Solidworks for Mechanical Engineers! This README document provides an overview of the course, its mini projects and final project.
 
 ### Mini Projects and Final Project
 
