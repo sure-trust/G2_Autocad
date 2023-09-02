@@ -23,6 +23,6 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: [The Project is about drawing 2D and 3D diagrams using AutoCAD and Solidworks]     | [Click Here](https://github.com/sure-trust/G2_Autocad/tree/main/Mini%20Projects/Niharika)                         |
-| Final Project: [The Project is about to draw 3D individual parts and assemble in Solidworks]     | [Click Here](https://github.com/sure-trust/G2_Autocad/tree/main/Final%20Capstone%20Project/Niharika)                         |
+| Mini Projects: The Project is about drawing 2D and 3D diagrams using AutoCAD and Solidworks     | [Click Here](https://github.com/sure-trust/G2_Autocad/tree/main/Mini%20Projects/Niharika)                         |
+| Final Project: The Project is about to draw 3D individual parts and assemble in Solidworks     | [Click Here](https://github.com/sure-trust/G2_Autocad/tree/main/Final%20Capstone%20Project/Niharika)                         |
 
