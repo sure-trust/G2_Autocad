@@ -24,4 +24,4 @@ Below is a table summarizing the mini projects and final project completed durin
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
 | Mini Projects: Ironman mask and sleeve joint are drawn a 3D object in Autocad and SolidWorks     | [CLICK ME](https://github.com/sure-trust/G2_Autocad/tree/main/Mini%20Projects/Naveen)                        |
-| Final Project: cross head assembly drawn in SolidWorks     | [CLICK ME](https://github.com/sure-trust/G2_Autocad/tree/main/Final%20Capstone%20Project/Naveen)                         |
+| Final Project: Cross head assembly drawn in SolidWorks     | [CLICK ME](https://github.com/sure-trust/G2_Autocad/tree/main/Final%20Capstone%20Project/Naveen)                         |
