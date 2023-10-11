@@ -23,6 +23,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: This project is about the developing 2D and 3D diagrams | [click here](https://github.com/Rameezammu/G2_Autocad/tree/main/Mini%20Projects/Rameez)                        |
-| Final Project: This project is about the developing the simulation of a assembly |[click here](https://github.com/Rameezammu/G2_Autocad/tree/main/Final%20Capstone%20Project/Rameez)|
-
+| Mini Projects: This project is about the developing 2D and 3D diagrams | [click here](https://github.com/sure-trust/G2_Autocad/tree/main/Mini%20Projects/Rameez)                        |
+| Final Project: This project is about the developing the simulation of a assembly |[click here](https://github.com/sure-trust/G2_Autocad/tree/main/Final%20Capstone%20Project/Rameez)|
