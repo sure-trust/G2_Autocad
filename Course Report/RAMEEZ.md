@@ -15,7 +15,7 @@
 
 ## Qualifications: 4th year Btech pursuing
 
-Welcome to the course report for the AutoCad & Solidworks for Mechanical Engineers-G2! This README document provides an overview of the course, its mini projects and final project.
+Welcome to the course report for the AutoCad & Solidworks for Mechanical Engineers! This README document provides an overview of the course, its mini projects and final project.
 
 ### Mini Projects and Final Project
 
