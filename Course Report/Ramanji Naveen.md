@@ -15,7 +15,7 @@
 
 ## Qualifications: Pursuing B.Tech final year in Mechanical Engineering at MITS
 
-Welcome to the course report for the [AutoCAD & Solidworks for Mechanical Engineers]! This README document provides an overview of the course, its mini projects and final project.
+Welcome to the course report for the AutoCAD & Solidworks for Mechanical Engineers! This README document provides an overview of the course, its mini projects and final project.
 
 ### Mini Projects and Final Project
 
